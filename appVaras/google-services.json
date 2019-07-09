@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363494565181",
+    "firebase_url": "https://ptovaras-7ee8f.firebaseio.com",
+    "project_id": "ptovaras-7ee8f",
+    "storage_bucket": "ptovaras-7ee8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363494565181:android:5de847571a519843",
+        "android_client_info": {
+          "package_name": "io.ionic.puerto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363494565181-k588m5lqls28jbsgj82pkm4il8uhe88d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeF1r0CUPKaRw-Sm1PUbaiOOJ858F-gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363494565181-k588m5lqls28jbsgj82pkm4il8uhe88d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

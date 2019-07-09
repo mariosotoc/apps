@@ -1,0 +1,4 @@
+<ion-content>
+  <iframe class='webPage' name="samplePage" [src]="trustedVideoUrl ? trustedVideoUrl : null"
+    (load)="trustedVideoUrl ? handleIFrameLoadEvent() : null"></iframe>
+</ion-content>
